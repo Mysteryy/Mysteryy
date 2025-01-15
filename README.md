@@ -1,9 +1,9 @@
 <h3 align="center">Software Engineer | Automation & Test Expert | Practical Problem Solver | Jack of All Trades</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukhsobo&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhsobo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mysteryy&label=Profile%20views&color=0e75b6&style=flat" alt="Mysteryy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukhsobo" alt="mayukhsobo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mysteryy" alt="Mysteryy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
