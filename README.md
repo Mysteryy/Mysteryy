@@ -17,14 +17,17 @@ Outside of work, I'm a family man and big DIYer, working on everything from a br
 
   
 💪 my strengths
+- Technical leadership
 - Adaptability
 - Learning new skills
+- Practical problem solving
+- Seeing the big picture
 - Mentoring
-- Listening
 
 
 🌱 my growth areas
-- Improving my web front-end development skills
+- Improving my front-end web development skills
+- Becoming better at managing time vs quality
 
 
 Thank you for taking the time to learn a bit about me!
