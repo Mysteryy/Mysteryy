@@ -1,7 +1,35 @@
 <h3 align="center">Software Engineer | Automation & Test Expert | Practical Problem Solver | Jack of All Trades</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mysteryy&label=Profile%20views&color=0e75b6&style=flat" alt="Mysteryy" /> </p>
+
+<p align="left">
+I'm an engineer with a deep interest in building things, whether that's building software, woodworking, or building a team. 
+Outside of work, I'm a family man and big DIYer, working on everything from a broken sink to remodeling a master bathroom.  
+
+✅ My Values
+- Strong opinions, loosely held
+- Question everything
+- Customer focused development
+- Simple solutions over complex clever solutions
+- Collaboration is key
+- Be thoughtful
+- Be honest
+
+  
+💪 my strengths
+- Adaptability
+- Learning new skills
+- Mentoring
+- Listening
+
+
+🌱 my growth areas
+- Improving my web front-end development skills
+
+
+Thank you for taking the time to learn a bit about me!
+</p>
+
 
 <!--- Comment out for now
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mysteryy" alt="Mysteryy" /></a> </p>
