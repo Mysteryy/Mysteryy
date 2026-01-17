@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer | Automation & Test Expert | Practical Problem Solver | Jack of All Trades</h3>
+<h3 align="center">Lead Software Engineer | Automation & Test Expert | Practical Problem Solver | Jack of All Trades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mysteryy&label=Profile%20views&color=0e75b6&style=flat" alt="Mysteryy" /> </p>
 
